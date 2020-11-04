@@ -64,11 +64,11 @@ header {
 }
 
 .prof h2 {
-    font-size: 60px;
+    font-size: 80px;
 }
 
 .prof p {
-    font-size: 30px;
+    font-size: 40px;
 }
 
 .msg {
@@ -78,11 +78,18 @@ header {
 }
 
 .msg h2 {
-    font-size: 60px;
+    font-size: 80px;
 }
 
 .msg p {
-    font-size: 30px;
+    font-size: 40px;
+}
+
+.slider-title h2 {
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Londrina Outline', cursive;
+    color: yellow;
 }
 
 .slider img {
