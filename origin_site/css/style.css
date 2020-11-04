@@ -68,6 +68,7 @@ header {
 }
 
 .prof p {
+    display: none;
     font-size: 40px;
 }
 
@@ -82,6 +83,7 @@ header {
 }
 
 .msg p {
+    display: none;
     font-size: 40px;
 }
 
